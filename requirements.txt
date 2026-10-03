@@ -1,0 +1,8 @@
+# Tested with Python 3.11. Versions below are the ones the project was built and tested with.
+pandas>=2.0          # tested 3.0.2
+numpy>=1.24          # tested 2.4.4
+matplotlib>=3.7      # tested 3.10.9
+seaborn>=0.12        # tested 0.13.2
+statsmodels>=0.14    # tested 0.15.0  (ARIMA)
+xlsxwriter>=3.1      # tested 3.2.9    (builds the Excel workbook)
+openpyxl>=3.1        # tested 3.1.5
